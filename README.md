@@ -157,5 +157,5 @@ Compare results using RMSE, MAE, R², MAPE, and Accuracy.
 ## 📉 Prediction vs Actual
 
 
-![image alt ](https://github.com/DashingData/NSE_Top_100/blob/befa2f4e2db17e173ea8ec341ebef440f0f37be8/predictions.png)
+![image alt](https://github.com/DashingData/NSE_Top_100/blob/befa2f4e2db17e173ea8ec341ebef440f0f37be8/predictions.png?raw=true)
 
