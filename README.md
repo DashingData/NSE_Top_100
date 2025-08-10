@@ -121,6 +121,11 @@ Accuracy ≈ 88.67%
 
 Winner: ✅ GRU (Better RMSE, MAE, R², Accuracy)
 
+
+## 📉 Prediction vs Actual Graph
+![Prediction vs Actual](predictions.png)
+
+
 📈 Key Learnings
 Date-based split prevents lookahead bias.
 
@@ -152,8 +157,6 @@ Compare results using RMSE, MAE, R², MAPE, and Accuracy.
 
 
 
-============================================================================================
-## 📉 Prediction vs Actual Graph
-![Prediction vs Actual](predictions.png)
+
 
 
