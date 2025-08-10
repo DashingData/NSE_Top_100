@@ -154,4 +154,6 @@ Compare results using RMSE, MAE, R², MAPE, and Accuracy.
 
 ============================================================================================
 ## 📉 Prediction vs Actual Graph
+## 📉 Prediction vs Actual
 ![Prediction vs Actual](predictions.png)
+
